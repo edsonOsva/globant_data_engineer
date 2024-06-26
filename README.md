@@ -1,3 +1,24 @@
+* Resultados de metodos post en API para subida de archivos a base de datos en SQLite
+
+Para Tabla Jobs:
+
+![image](https://github.com/edsonOsva/globant_data_engineer/assets/129419209/6b265a42-63a8-45d9-bd99-8a0e6634882e)
+
+Para tabla Departmens:
+![image](https://github.com/edsonOsva/globant_data_engineer/assets/129419209/2c84ab6b-e30a-4781-9323-e95eef8c06c4)
+
+Para tabla Hired:
+![image](https://github.com/edsonOsva/globant_data_engineer/assets/129419209/be603681-9db0-41d7-9bda-7cfc75fbaa73)
+
+* Endpoints de API
+Primer query de stakeholders:
+
+![image](https://github.com/edsonOsva/globant_data_engineer/assets/129419209/683c7c9f-b5ac-44e8-b9fe-2f4f0a330478)
+
+Segundo query:
+![image](https://github.com/edsonOsva/globant_data_engineer/assets/129419209/ade5b11a-8934-4f50-8b7d-ce6ce4ebfe0f)
+
+
 •	Construyendo imagen de Docker:
 docker build -t gcr.io/globant-dataengineer/globant-api:gdea -f C:\Users\edson.perez\Globant\app\dockerfile .
  
