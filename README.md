@@ -10,13 +10,33 @@ Para tabla Departmens:
 Para tabla Hired:
 ![image](https://github.com/edsonOsva/globant_data_engineer/assets/129419209/be603681-9db0-41d7-9bda-7cfc75fbaa73)
 
+Resultado en Base de datos:
+![image](https://github.com/edsonOsva/globant_data_engineer/assets/129419209/da913f83-d53f-4166-a4c4-7bd08e6a9fa6)
+
+Tabla departments:
+![image](https://github.com/edsonOsva/globant_data_engineer/assets/129419209/57b7b751-a3a8-4db8-aaed-46793e53bb0e)
+
+Tabla jobs:
+![image](https://github.com/edsonOsva/globant_data_engineer/assets/129419209/c0eb5c7a-19d6-4010-b2d6-11eff37eea81)
+
+Tabla hired:
+![image](https://github.com/edsonOsva/globant_data_engineer/assets/129419209/d5dbcc0f-918b-4c46-b1a4-898b24bcd850)
+
+
 * Endpoints de API
 Primer query de stakeholders:
 
 ![image](https://github.com/edsonOsva/globant_data_engineer/assets/129419209/683c7c9f-b5ac-44e8-b9fe-2f4f0a330478)
 
+SQL:
+![image](https://github.com/edsonOsva/globant_data_engineer/assets/129419209/3c34292c-9b74-4155-8c02-446e592413c6)
+
+
 Segundo query:
 ![image](https://github.com/edsonOsva/globant_data_engineer/assets/129419209/ade5b11a-8934-4f50-8b7d-ce6ce4ebfe0f)
+
+SQL:
+![image](https://github.com/edsonOsva/globant_data_engineer/assets/129419209/25c2fd60-b1a5-4757-bdfb-81b3ab634578)
 
 
 •	Construyendo imagen de Docker:
