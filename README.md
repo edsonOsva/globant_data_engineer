@@ -107,3 +107,5 @@ Configurando reglas de firewall para que se despliegue aplicación en puerto 80 
 Resultado
 
 ![image](https://github.com/edsonOsva/globant_data_engineer/assets/129419209/b726bf1a-bf4a-4a26-aa24-5354a8e7855f)
+
+**Nota: en esta última parte no obtuve el resultado que deseaba, parece ser un detalle con el firewall y la transmisión de información por los puertos
